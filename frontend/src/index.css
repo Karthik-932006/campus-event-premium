@@ -1,0 +1,4 @@
+/* CampusConnect - base styles. Tailwind is loaded via CDN in index.html */
+html, body, #root {
+  height: 100%;
+}
